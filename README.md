@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning pixel art and GDScript
 - 📫 How to reach me: Cdbarnezy on X, Twitch and cdbarnezy22@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I'm a vtuber and I'm also photosensitive! (i have non-epilptic attack disorder
+- ⚡ Fun fact: I'm a vtuber and I'm also photosensitive! (I have non-epilptic attack disorder)
 
 <!---
 CDBarnezy/CDBarnezy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
